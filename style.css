@@ -1,0 +1,26 @@
+.head {
+    text-align: center;
+    color:rgb(0, 0, 0)
+    
+  }
+  
+  .city {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+  }
+  
+  body{
+    background-color: darksalmon;
+  }
+  
+  .introduction{
+    text-align: center;
+  }
+  
+  .heading{
+    color:rgb(5, 1, 68);
+  }
+  
+  
